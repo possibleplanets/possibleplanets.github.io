@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Model List
+title: Models
 permalink: /models/
 ---
 
