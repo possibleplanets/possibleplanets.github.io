@@ -4,4 +4,5 @@
 
 layout: home
 title: Home
+heading: Data Science for the Future
 ---

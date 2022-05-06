@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: About Possible Planets
+short: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The goal of this website is to **make models of our society and planet open and accessible** through free software, clear instruction, and meaningful data visualizations.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+What we do:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- 📄 Publish plain language guides on how to use scientific data and models
+- 📉 Produce articles and visualizations
+- 🐳 Containerize models to eliminate the hassle of installing new software
 
-
-[jekyll-organization]: https://github.com/jekyll
+Possible Planets is founded on the philosophy that scientific models should be easy-to-use, open-source, and no more complicated than necessary. Only in this way can a sufficient number of people become educated on and aware of the science behind global challenges.
