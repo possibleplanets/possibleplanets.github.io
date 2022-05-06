@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to run OSCAR natively or in Docker"
-date:   2022-04-05 08:46:22 +0800
+date:   2022-05-06 18:00:00 +0800
 categories: RCM
 ---
 How to run the OSCAR climate model:

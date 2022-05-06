@@ -2,7 +2,7 @@
 layout: post
 title:  "How to forecast the climate—a practical guide to open models and data"
 author: James Murdza
-date:   2022-04-05 08:46:22 +0800
+date:   2022-05-06 18:00:00 +0800
 categories:
 excerpt: An overview of open and free climate models available on the internet and how to make the most of them.
 ---

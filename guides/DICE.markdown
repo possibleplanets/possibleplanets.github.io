@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to run DICE natively or in Docker"
-date:   2022-04-05 08:46:22 +0800
+date:   2022-05-06 18:00:00 +0800
 categories: IAM
 ---
 While the original version of DICE requires proprietary software to run, the DICE model has been ported to a Julia notebook, and can be run for free either natively or in a Docker container. The recommended way to run DICE is via the Docker container method.

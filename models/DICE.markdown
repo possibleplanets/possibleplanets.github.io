@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The DICE integrated assessment model"
-date:   2022-04-05 08:46:22 +0800
+date:   2022-05-06 18:00:00 +0800
 categories: IAM
 ---
 In 2018, William Nordhaus was awarded the Nobel Prize for Economics “for integrating climate change into long-run macroeconomic analysis”. His work and results are documented with the [Dynamic Integrated Climate Economy (DICE)](https://williamnordhaus.com/dicerice-models) model, which was last updated in 2018.
