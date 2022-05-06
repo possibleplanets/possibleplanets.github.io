@@ -11,7 +11,7 @@ permalink: /models/
 
 |        | Model                                              | Source code                                                  | How-to                | Publications                                                 |
 | ------ | -------------------------------------------------- | ------------------------------------------------------------ | --------------------- | ------------------------------------------------------------ |
-| DICE   | [Dynamic Integrated Climate Economy model](./DICE) | [DICE2016R.gms](http://www.econ.yale.edu/~nordhaus/homepage/homepage/DICE2016R-091916ap.gms) | [Guide](/guides/dice) | ["Revisiting the social cost of carbon" (2017)](https://www.pnas.org/doi/abs/10.1073/pnas.1609244114) |
+| DICE   | [Dynamic Integrated Climate Economy model](./DICE) | [DICE2016R.gms](http://www.econ.yale.edu/~nordhaus/homepage/homepage/DICE2016R-091916ap.gms) | [Guide](/guides/DICE) | ["Revisiting the social cost of carbon" (2017)](https://www.pnas.org/doi/abs/10.1073/pnas.1609244114) |
 | GCAM   | Global Change Analysis Model                       | [JGCRI/gcam-core](https://github.com/JGCRI/gcam-core) (ECL-2.0) | Soon                  | ["GCAM v5.1: representing the linkages between energy, water, land, climate, and economic systems" (2019)](https://gmd.copernicus.org/articles/12/677/2019/) |
 | WORLD3 | World3                                             | [WRLD3-03](https://gitlab.inria.fr/squinito/world3-03_python/-/tree/master/models/WRLD3-03) | Soon                  | ["Limits to Growth: The 30-Year Update"](https://www.amazon.com/gp/product/193149858X/) |
 
