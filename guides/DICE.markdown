@@ -17,7 +17,7 @@ Then, on a UNIX, macOS or Windows system run the commands:
 git clone https://github.com/possibleplanets/DICE.jl-notebooks.git
 cd DICE.jl-notebooks
 docker build -t dice-notebooks .
-docker run -p 8000:8000 dice-notebooks
+docker run -p 8888:8888 dice-notebooks
 ```
 
 ## Run natively
