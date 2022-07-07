@@ -11,9 +11,9 @@ permalink: /models/
 
 | Model                                                     | Description                                                  | Source code                                                  | How-to                |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
-| [Dynamic Integrated Climate Economy model](./DICE) (DICE) | Well-known model used to estimate the global economic damage of human-induced climate change. | [GAMS](http://www.econ.yale.edu/~nordhaus/homepage/homepage/DICE2016R-091916ap.gms) | [Guide](/guides/DICE) |
-| Global Change Analysis Model (GCAM)                       | General model of non-renewable resource use developed from the 70s until 2004 and used as a reference for later research. | [C++](https://github.com/JGCRI/gcam-core) (ECL-2.0)          | Soon                  |
-| World3                                                    | Open-source integrated assessment model which plays a role in generating scenarios for IPCC assessment reports. | [A](https://gitlab.inria.fr/squinito/world3-03_python/-/tree/master/models/WRLD3-03) | Soon                  |
+| [Dynamic Integrated Climate Economy model](./DICE) (DICE) | Well-known economic model used to estimate the global costs of human-induced climate change. | [GAMS](http://www.econ.yale.edu/~nordhaus/homepage/homepage/DICE2016R-091916ap.gms) | [Guide](/guides/DICE) |
+| Global Change Analysis Model (GCAM)                       | Open-source integrated assessment model used to generate scenarios for IPCC assessments. | [C++](https://github.com/JGCRI/gcam-core) (ECL-2.0)          | Not&nbsp;yet          |
+| World3                                                    | Frequently cited model of non-renewable resource use begun in the 70s and under develoment until 2004. | [A](https://gitlab.inria.fr/squinito/world3-03_python/-/tree/master/models/WRLD3-03) | Not&nbsp;yet          |
 
 <a name="rcms" />
 
