@@ -21,11 +21,10 @@ Integrated Assesment Models are multi-disciplinary economic models which often i
 
 ### Reduced Complexity Climate Models
 
-Climate models take emissions of greenhouse gases and output greenhouse gas concentrations, radiative forcing and temperature change.
+Reduced Complexity Climate Models (RCCMs) are simplified models that simulate key climate system components, focusing on greenhouse gases, radiative forcing, and temperature changes. They offer faster simulations for large-scale analyses.
 
 | Model                                                        | Description                                                  | Source code                                                | How-to                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- |
-| OSCAR                                                        | Simplified and fast constant time step model including modules for oceanic and terrestrial carbon cycles, and calibrated with CMIP. | [Python](https://github.com/tgasser/OSCAR) (CeCILL-2.1)    | [Guide](/guides/OSCAR) |
-| Finite Amplitude Impulse-Response simple climate-carbon-cycle model | Another simplified and near-instant climate change model.    | [Python](https://github.com/OMS-NetZero/FAIR) (Apache-2.0) | Soon                   |
-| The Hector Simple Climate Model                              | Slightly more complex model with variable time step solver, more suited for highly non-linear behaviors. | [C++](https://github.com/JGCRI/hector) (GPLv3)             | Soon                   |
-
+| OSCAR                                                        | Fast model with constant time steps, simulating carbon cycles in oceans and land. | [Python](https://github.com/tgasser/OSCAR) (CeCILL-2.1)    | [Guide](/guides/OSCAR) |
+| Finite Amplitude Impulse-Response simple climate-carbon-cycle model | Quick model for assessing climate impacts using impulse-response methods. | [Python](https://github.com/OMS-NetZero/FAIR) (Apache-2.0) | Soon                   |
+| The Hector Simple Climate Model                              | More detailed RCCM with variable time steps for non-linear climate behavior. | [C++](https://github.com/JGCRI/hector) (GPLv3)             | Soon                   |
