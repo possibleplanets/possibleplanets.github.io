@@ -1,35 +1,28 @@
 ---
 layout: post
-title:  "How to run OSCAR natively or in Docker"
-date:   2022-05-06 18:00:00 +0800
+title:  "How to run OSCAR in Python"
+date:   2025-03-22 18:00:00 +0800
 categories: RCM
 ---
 How to run the OSCAR climate model:
 
-## Run using Docker
+## Run with Poetry
 
-(Soon.)
-
-## Run natively
-
-(Not finished.)
-
-- If necessary, download and install Git: [Link](https://git-scm.com/downloads).
-
-Install NetCDF:
-
-- If using Windows &rarr; 
-  - Download and install: [Link](https://downloads.unidata.ucar.edu/netcdf/).
-- If using macOS &rarr;
-  - If necessary, download and install Homebrew: [Link](https://brew.sh/).
-  - Run the command:  `brew install netcdf`
+If necessary, download and install:
+- [Git](https://git-scm.com/downloads)
+- [Poetry](https://python-poetry.org/docs/)
 
 Then, on a UNIX, macOS or Windows system run the commands:
 
 ```
-git clone https://github.com/tgasser/OSCAR.git
+git clone https://github.com/jamesmurdza/OSCAR.git
 cd OSCAR
-pip install -r requirements.txt
+poetry run install
+```
+
+To run an example, run:
+```
+poetry run python run_scripts/basic_example_1.py
 ```
 
 ## Video
