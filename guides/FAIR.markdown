@@ -6,11 +6,7 @@ categories: RCM
 ---
 How to run the FAIR climate model:
 
-## Run using Docker
-
-(Soon.)
-
-## Run in Colab  
+## Run in Google Colab  
 
 (Based on [this example](https://github.com/OMS-NetZero/FAIR/blob/master/examples/cmip6_ssp_emissions_run.ipynb).)  
 
